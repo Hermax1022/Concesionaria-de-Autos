@@ -1,2 +1,2 @@
 # Concesionaria-de-Autos
-Ejercicio realizado en Java.
+Ejercicio publicado en LinkedIn por Onready, realizado en Java.
